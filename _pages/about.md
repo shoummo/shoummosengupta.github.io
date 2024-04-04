@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Shoummo Sen Gupta. I am a PhD student at Koita Centre for Digital Health, IIT Bombay. I am working under Prof Souvik Banerjee and Prof Siuli Mukhopadhyay.
+I am Shoummo Sen Gupta. I am a PhD student at [Koita Centre for Digital Health, IIT Bombay][https://www.kcdh.iitb.ac.in/]. I am working under Prof Souvik Banerjee and Prof Siuli Mukhopadhyay.
